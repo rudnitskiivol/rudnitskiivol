@@ -10,6 +10,8 @@
 
 <b>My GitHub serves primarily as a repository of boilerplates for me. If it helps someone else, I'll be glad 😀</b>
 
+<b>I saw some interest in my MODX plugin. Sorry, but I decided to clean up my github and reorganize because it has become like a trash can. You download this via this link
+https://modstore.pro/packages/users/instructiontab</b>
 <!---
 rudnitskiivol/rudnitskiivol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
